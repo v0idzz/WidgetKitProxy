@@ -1,0 +1,11 @@
+framework module WidgetKitProxy {
+  umbrella header "WidgetKitProxy.h"
+
+  export *
+  module * { export * }
+}
+
+module WidgetKitProxy.Swift {
+  header "WidgetKitProxy-Swift.h"
+  requires objc
+}
