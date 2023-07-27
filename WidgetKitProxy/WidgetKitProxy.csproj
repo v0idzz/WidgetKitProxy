@@ -7,6 +7,7 @@
     <ProjectGuid>{DF8F50C8-8B97-46AB-9EF4-7A92F726540E}</ProjectGuid>
     <TemplateGuid>{b6f3ff35-79b2-4f25-a2fc-60a7cf61013b}</TemplateGuid>
     <OutputType>Library</OutputType>
+    <OutputPath>bin</OutputPath>
     <RootNamespace>NativeLibrary</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>NativeLibrary</AssemblyName>
