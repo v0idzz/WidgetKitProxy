@@ -1,6 +1,6 @@
 using Foundation;
 
-namespace Binding
+namespace WidgetKitProxy
 {
 	// @interface WidgetKitProxy : NSObject
 	[BaseType (typeof(NSObject))]
