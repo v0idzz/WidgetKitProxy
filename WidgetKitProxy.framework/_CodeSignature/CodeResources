@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cuvGkvo0Qp4dKkpcFfqKLG905hY=
+		p2nshYuc82y4ePyAIUuqexOv3uo=
 		</data>
 		<key>Modules/WidgetKitProxy.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		OpZ+nnavHDbbIvo6/mYSk17/naM=
+		0XHFCR4IK1waBA5f8x1e1jFli0A=
 		</data>
 		<key>Modules/WidgetKitProxy.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/WidgetKitProxy.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		o6ebGP1IFrmluuWN9as2HjZumZs=
+		vwSciq2iGgbUYtd//omtJVrOmM8=
 		</data>
 		<key>Modules/WidgetKitProxy.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		C3vxtPEZjg90jP3TlA00x8ZfIsI=
+		Et0dywDA7fPqElLTPRwhvPlkKqU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HMbuwZWyc921ZbJkL4rnVD8QIz4R8N3X72gJKYVxYAU=
+			AbWMYmb/Lf81G7p52eaiErKFjUsEG+xpGz/kATr50DI=
 			</data>
 		</dict>
 		<key>Modules/WidgetKitProxy.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6a6YI7azgTSoDGS3jM6sEk1McBnYhfF5t+l0R3cWrrU=
+			InsZxKVFrz6T6XSQbsUtO1bpNp580V9yIP5d9TemoNg=
 			</data>
 		</dict>
 		<key>Modules/WidgetKitProxy.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lIOTOqm5zkrNpK1KMGwsk1Tdqp/HIRcWTcVWPxvOMrI=
+			agy0M5b2cCGbGE8iQlxPw2G0aMyp/L2c9WLNGbyZfzc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
