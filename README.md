@@ -1,2 +1,2 @@
 # WidgetKitProxy
-Ongoing work to expose necessary WidgetKit APIs to Vulcanova.
+WidgetKit proxy intended for usage with Xamarin.iOS.
